@@ -13,7 +13,7 @@ I’m working toward a career in cybersecurity, specifically in a SOC role where
 ## Skills
 | Skill                                      | Associated Project                                                                 |
 |--------------------------------------------|------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis        | <a href="https://google.com" target="_blank">Detection Lab</a>                     |
+| SIEM Implementation and Log Analysis        | <a href="https://github.com/donxyen/Detection-Lab/tree/main" target="_blank">Detection Lab</a>                     |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com" target="_blank">Detection Lab</a>                 |
 
 
@@ -63,5 +63,5 @@ I’m working toward a career in cybersecurity, specifically in a SOC role where
 </div>
 
 ## Projects
-- Test Projects
+- <a href="https://github.com/donxyen/Detection-Lab/tree/main" target="_blank">Detection Lab</a> 
 

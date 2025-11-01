@@ -1,4 +1,6 @@
-# Hello, I'm Donald
+# Hello, I'm Donald 👨‍💻
+
+
 
 <a href="https://www.linkedin.com/in/donxyen/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +21,7 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 
 ## Tools
 
-### SIEM
+### 📊 SIEM
 <div>
 
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -28,20 +30,20 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 
 </div>
 
-### Vulnerability
+### 🔍 Vulnerability
 <div>
   <img src="https://img.shields.io/badge/-Nessus-00B2A9?&style=for-the-badge&logo=Tenable&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenVAS-6BA539?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
 </div>
 
-### Network
+### 🌐 Network
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Snort-FF6666?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
-### Endpoint
+### 🛡️ Endpoint
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
@@ -49,7 +51,7 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
   <img src="https://img.shields.io/badge/-SentinelOne-5B0BB5?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
 </div>
 
-### Cloud
+### ☁️ Cloud
 <div>
   <img src="https://img.shields.io/badge/-Amazon_AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
@@ -60,6 +62,15 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-CySA%2B-006699?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</div>
+
+## Programming Languages
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swift-FA7343?&style=for-the-badge&logo=Swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=C%20Sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
 </div>
 
 ## Projects

@@ -58,6 +58,10 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 </div>
 
 ## Certifications
+ [<img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ Badge" width="110" />](https://www.credly.com/badges/ce293707-f210-4cee-b0cf-31b78869d0fb/public_url)
+
+
+
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-CySA%2B-006699?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -65,13 +69,8 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 </div>
 
 ## Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Swift-FA7343?&style=for-the-badge&logo=Swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=C%20Sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-</div>
+
+[![SkillIcons](https://skillicons.dev/icons?i=py,swift,powershell,cs,java,js)](https://skillicons.dev)<br/>
 
 ## Projects
 - <a href="https://github.com/donxyen/Detection-Lab/tree/main" target="_blank">Detection Lab</a> 

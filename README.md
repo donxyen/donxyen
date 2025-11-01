@@ -18,6 +18,16 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 | SIEM Implementation and Log Analysis        | <a href="https://github.com/donxyen/Detection-Lab/tree/main" target="_blank">Detection Lab</a>                     |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com" target="_blank">Detection Lab</a>                 |
 
+## Certifications
+<a href="https://www.credly.com/badges/ce293707-f210-4cee-b0cf-31b78869d0fb/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ Badge" width="110" />
+</a>
+
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CySA%2B-006699?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</div>
 
 ## Tools
 
@@ -57,19 +67,6 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
   <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
-## Certifications
-<a href="https://www.credly.com/badges/ce293707-f210-4cee-b0cf-31b78869d0fb/public_url" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ Badge" width="110" />
-</a>
-
-
-
-
-<div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CySA%2B-006699?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</div>
 
 ## Programming Languages
 

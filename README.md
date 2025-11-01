@@ -5,10 +5,10 @@
 </a>
 
 ## Introduction
-I’m a data-driven professional with a strong background in analytics and SEO, now channeling that technical curiosity into cybersecurity. My experience interpreting complex data, optimizing systems for performance, and uncovering hidden patterns naturally evolved into a passion for identifying vulnerabilities, strengthening defenses, and helping companies stay safe in this evolving digital landscape.
+I’m a data-driven professional with a strong background in analytics, programming, and SEO — now channeling that technical curiosity into cybersecurity. My experience interpreting complex data, writing efficient code, optimizing systems for performance, and uncovering hidden patterns naturally evolved into a passion for identifying vulnerabilities, strengthening defenses, and helping companies stay safe in this evolving digital landscape.
 
 ## Objective
-I’m working toward a career in cybersecurity, specifically in a SOC role where I can put my analytical and problem-solving skills to work. My background in analytics and SEO taught me how to spot patterns, think critically, and use data to make smarter decisions — skills I’m now applying to threat detection, incident response, and keeping digital systems secure. I’m motivated by learning new tools, understanding how attacks happen, and being part of the team that prevents them.
+I’m working toward a career as a Cybersecurity Engineer, with my first goal being to break into the field as a SOC Analyst. I want to apply my analytical mindset, problem-solving skills, and programming experience to threat detection, incident response, and security automation. My background in analytics and SEO taught me how to spot patterns, think critically, and use data to make smarter decisions — skills I’m now applying to monitoring threats, investigating alerts, and strengthening defenses. I’m driven by curiosity and continuous learning.
 
 ## Skills
 | Skill                                      | Associated Project                                                                 |

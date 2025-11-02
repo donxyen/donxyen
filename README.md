@@ -15,7 +15,7 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 ## Skills
 | Skill                                      | Associated Project                                                                 |
 |--------------------------------------------|------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis        | <a href="https://github.com/donxyen/Detection-Lab/tree/main" target="_blank">Detection Lab</a>                     |
+| Geo-Enriched Attack Map in Microsoft Sentinel       | <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a>                     |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com" target="_blank">Detection Lab</a>                 |
 
 ## Certifications
@@ -73,5 +73,5 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 [![SkillIcons](https://skillicons.dev/icons?i=py,swift,powershell,cs,java,js)](https://skillicons.dev)<br/>
 
 ## Projects
-- <a href="https://github.com/donxyen/Detection-Lab/tree/main" target="_blank">Detection Lab</a> 
+- <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a> 
 

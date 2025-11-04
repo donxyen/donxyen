@@ -16,6 +16,7 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 | Skill                                      | Associated Project                                                                 |
 |--------------------------------------------|------------------------------------------------------------------------------------|
 | Multi-Honeypot Deployment, Threat Detection, SIEM & Incident Analysis | <a href="https://github.com/donxyen/tpot-honeypot-azure-lab/tree/main" target="_blank">T-Pot Honeypot Deployment & Threat Detection (Microsoft Azure) </a>    |
+| Vulnerability Assessment, Remediation, and Windows System Hardening | <a href="https://github.com/donxyen/vulnerability-scanner-nessus-lab/tree/main" target="_blank">Vulnerability Scanner Deployment & Risk Mitigation (NESSUS)</a> |
 | Geo-Enriched Attack Map in Microsoft Sentinel       | <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a>                     |
               
 
@@ -68,6 +69,7 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 [![SkillIcons](https://skillicons.dev/icons?i=py,swift,powershell,cs,java,js)](https://skillicons.dev)<br/>
 
 ## Projects
-- <a href="https://github.com/donxyen/tpot-honeypot-azure-lab/tree/main" target="_blank">T-Pot Honeypot Deployment & Threat Detection (Microsoft Azure) </a>  
+- <a href="https://github.com/donxyen/tpot-honeypot-azure-lab/tree/main" target="_blank">T-Pot Honeypot Deployment & Threat Detection (Microsoft Azure) </a>
+- <a href="https://github.com/donxyen/vulnerability-scanner-nessus-lab/tree/main" target="_blank">Vulnerability Scanner Deployment & Risk Mitigation (NESSUS)</a>
 - <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a> 
 

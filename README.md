@@ -19,11 +19,12 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 | Vulnerability Assessment, Remediation, and Windows System Hardening | <a href="https://github.com/donxyen/vulnerability-scanner-nessus-lab/tree/main" target="_blank">Vulnerability Scanner Deployment & Risk Mitigation (NESSUS)</a> |
 | Geo-Enriched Attack Map in Microsoft Sentinel       | <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a>                     |
               
+## Certifications
 
 ## Certifications
-<a href="https://www.credly.com/badges/ce293707-f210-4cee-b0cf-31b78869d0fb/public_url" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ Badge" width="110" />
-</a>
+<a href="https://www.credly.com/badges/ce293707-f210-4cee-b0cf-31b78869d0fb/public_url"><img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ Badge" width="110" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/Don-8730/8CAA1EBF4225221A?sharingId=D91088BCC5192C8E"><img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals Badge" width="110" /></a>
+
 
 ## Tools
 

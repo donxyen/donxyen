@@ -13,12 +13,13 @@ I’m a data-driven professional with a strong background in analytics, programm
 I’m working toward a career as a Cybersecurity Engineer, with my first goal being to break into the field as a SOC Analyst. I want to apply my analytical mindset, problem-solving skills, and programming experience to threat detection, incident response, and security automation. My background in analytics and SEO taught me how to spot patterns, think critically, and use data to make smarter decisions. I apply my skills to monitoring threats, investigating alerts, and strengthening defenses. I’m driven by curiosity and continuous learning.
 
 ## Skills
-| Skill                                      | Associated Project                                                                 |
+
+| Skill | Associated Project |
 |--------------------------------------------|------------------------------------------------------------------------------------|
-| Multi-Honeypot Deployment, Threat Detection, SIEM & Incident Analysis | <a href="https://github.com/donxyen/tpot-honeypot-azure-lab/tree/main" target="_blank">T-Pot Honeypot Deployment & Threat Detection (Microsoft Azure) </a>    |
+| Multi-Honeypot Deployment, Threat Detection, SIEM & Incident Analysis | <a href="https://github.com/donxyen/tpot-honeypot-azure-lab/tree/main" target="_blank">T-Pot Honeypot Deployment & Threat Detection (Microsoft Azure)</a> |
+| Network Traffic Analysis, Packet Inspection, Protocol Dissection (Ethernet, IP, TCP/UDP, ARP, DNS, DHCP), Threat Pattern Recognition, and Network Troubleshooting | <a href="https://github.com/donxyen/wireshark-lab/tree/main" target="_blank"> 🦈 Wireshark Network Analysis & Packet Capture Labs</a> |
 | Vulnerability Assessment, Remediation, and Windows System Hardening | <a href="https://github.com/donxyen/vulnerability-scanner-nessus-lab/tree/main" target="_blank">Vulnerability Scanner Deployment & Risk Mitigation (NESSUS)</a> |
-| Geo-Enriched Attack Map in Microsoft Sentinel       | <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a>                     |
-              
+| Geo-Enriched Attack Map in Microsoft Sentinel | <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a> |
 
 ## Certifications
 <a href="https://www.credly.com/badges/ce293707-f210-4cee-b0cf-31b78869d0fb/public_url"><img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ Badge" width="110" /></a>
@@ -71,5 +72,6 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 ## Projects
 - <a href="https://github.com/donxyen/tpot-honeypot-azure-lab/tree/main" target="_blank">T-Pot Honeypot Deployment & Threat Detection (Microsoft Azure) </a>
 - <a href="https://github.com/donxyen/vulnerability-scanner-nessus-lab/tree/main" target="_blank">Vulnerability Scanner Deployment & Risk Mitigation (NESSUS)</a>
-- <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a> 
+- <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a>
+- <a href="https://github.com/donxyen/wireshark-lab/tree/main" target="_blank"> 🦈 Wireshark Network Analysis & Packet Capture Labs</a>
 

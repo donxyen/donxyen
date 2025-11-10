@@ -17,7 +17,7 @@ I’m working toward a career as a Cybersecurity Engineer, with my first goal be
 | Skill | Associated Project |
 |--------------------------------------------|------------------------------------------------------------------------------------|
 | Multi-Honeypot Deployment, Threat Detection, SIEM & Incident Analysis | <a href="https://github.com/donxyen/tpot-honeypot-azure-lab/tree/main" target="_blank">T-Pot Honeypot Deployment & Threat Detection (Microsoft Azure)</a> |
-| Network Traffic Analysis, Packet Inspection, Protocol Dissection (Ethernet, IP, TCP/UDP, ARP, DNS, DHCP), Threat Pattern Recognition, and Network Troubleshooting | <a href="https://github.com/donxyen/wireshark-lab/tree/main" target="_blank"> 🦈 Wireshark Network Analysis & Packet Capture Labs</a> |
+| Network Traffic Analysis, Packet Inspection, Protocol Dissection (Ethernet, IP, TCP/UDP, ARP, DNS, DHCP), Threat Pattern Recognition, and Network Troubleshooting | <a href="https://github.com/donxyen/wireshark-lab/tree/main" target="_blank"> 🦈 Wireshark Network Analysis & Packet Capture Lab</a> |
 | Vulnerability Assessment, Remediation, and Windows System Hardening | <a href="https://github.com/donxyen/vulnerability-scanner-nessus-lab/tree/main" target="_blank">Vulnerability Scanner Deployment & Risk Mitigation (NESSUS)</a> |
 | Geo-Enriched Attack Map in Microsoft Sentinel | <a href="https://github.com/donxyen/SIEM-watchlist-security-event" target="_blank">SIEM Event Geo-Watchlist</a> |
 
